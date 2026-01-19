@@ -9,3 +9,6 @@ def grade(m1,m2,m3):
     else:
         grade='F'
     return avg,grade
+m1=int(input("Enter marks for maths: "))
+m2=int(input("Enter marks for english: "))
+m3=int(input("Enter marks for science 3: "))
